@@ -16,6 +16,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   fpdart: ^1.1.0  #for functional programming
   supabase_flutter: ^2.8.0 #inorder to connect the supabase
+  flutter_bloc: ^8.1.6
 
 dev_dependencies:
   flutter_test:
